@@ -35,3 +35,5 @@ Assuming you have granted required permissions to the run file, type:
 ```
 ./run or ./run --verbose [for verbose output] 
 ```
+***
+✨Made by [Aditi](https://github.com/aditiisaxena) ● [Amanpreet](https://github.com/Ampreee) ● [Yashila](https://github.com/Yashila21436)✨
